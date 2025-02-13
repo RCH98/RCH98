@@ -11,6 +11,7 @@
 💼 Open to internships in Data Science & Engineering  
 
 
+
 ## 🔥 Projects & Work
 Here are some of my best projects:
 
