@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Abdirashid Chorshanbiyev
 
-<!--
+
 **RCH98/RCH98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 🎓 Data Science & Engineering Master's Student at Politecnico di Torino  
@@ -48,6 +49,6 @@ Here are some of my best projects:
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
 
 
--->
+
 
 
