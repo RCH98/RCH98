@@ -48,7 +48,10 @@ Here are some of my best projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
 
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{RCH98}/count.svg" alt="Visitor's Count" />
+</div>
 
 
 
