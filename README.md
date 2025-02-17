@@ -6,9 +6,8 @@
 
 
 🎓 Data Science & Engineering Master's Student at Politecnico di Torino  
-📊 Passionate about Machine Learning, Federated Learning, and Anomaly Detection  
+📊 Passionate about Machile Learning and Deep Learning 
 🔍 Currently working on my thesis with IVECO Group on time series anomaly detection in vehicles  
-🏆 1st Place in an International Olympiad  
 💼 Open to internships in Data Science & Engineering  
 
 
