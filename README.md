@@ -7,10 +7,8 @@
 
 🎓 Data Science & Engineering Master's Student at [Politecnico di Torino](https://www.polito.it)  
 📊 Passionate about Machile Learning and Deep Learning 
-
-🔍 Currently working on my thesis with IVECO Group on time series anomaly detection in vehicles  
-
-💼 Open to internships in Data Science & Engineering  
+🔍 Currently working on my thesis and internship  with [FPT Industrial ]([https://www.polito.it](https://www.fptindustrial.com/it))  on time series anomaly detection in vehicular data.   
+💼 Open to internships in Data Science & Engineering roles  
 
 
 
