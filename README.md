@@ -5,7 +5,7 @@
 
 
 
-🎓 Data Science & Engineering Master's Student at Politecnico di Torino  
+🎓 Data Science & Engineering Master's Student at **[Politecnico di Torino](https://www.polito.it)  
 📊 Passionate about Machile Learning and Deep Learning 
 
 🔍 Currently working on my thesis with IVECO Group on time series anomaly detection in vehicles  
