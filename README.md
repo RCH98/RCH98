@@ -47,8 +47,8 @@ Here are some of my best projects:
 ---
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/abdirashid-chorshanbiyev-a9444a198/))  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/RCH98)
 
 <div align="center"> 
   <p>Visitor count</p>
